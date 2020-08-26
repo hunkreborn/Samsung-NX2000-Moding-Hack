@@ -17,7 +17,11 @@ All I did was use his tutorial, but had to manually check for the list of codes 
 Check those links before starting if you haven't yet.
 
 Hacking the Samsung NX300 'Smart' Camera > https://op-co.de/blog/posts/hacking_the_nx300/
+
 Hacking the Samsung NX300, part 2: Get Root! > https://op-co.de/blog/posts/rooting_the_nx300/
+
 Hacking the Samsung NX300, part 3: Firmware mods > https://op-co.de/blog/posts/modding_the_nx300/
+
 NX Crypto Photography > https://sites.google.com/site/nxcryptophotography/
+
 Samsung NX500 and NX1 Modding > https://github.com/ottokiksmaler/nx500_nx1_modding
