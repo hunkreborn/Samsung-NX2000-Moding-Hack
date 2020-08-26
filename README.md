@@ -12,7 +12,7 @@ Samsung NX2000 (1.18d)
 
 This tutorial was inspired by "ge0rg's NX300 Hacking", take a look there since its much more technical than mine. 
 
-All I did was use his tutorial, but had to manually check for the list of codes for each function that I wanted to disable/enable that are available in the Developer Menu, but unfortunately NX2000 has no such menu, or if it does, its only achievable thru hacking or some keystrokes macro script that I'm unware of. 
+I started by checking his steps and then made the list of codes for each function that I wanted to disable/enable that are available in the Developer Menu, but unfortunately NX2000 has no such menu, or if it does, its only achievable thru hacking or some keystrokes macro script that I'm unware of. 
 
 Check those links before starting if you haven't yet.
 
