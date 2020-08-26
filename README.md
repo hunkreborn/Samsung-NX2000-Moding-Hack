@@ -2,13 +2,13 @@
 
 This is a hacking mod for Samsung NX2000. Since this camera has no buttons, its not possible to enter the Developer Menu by keypress.
 
-I give NO warranty of work, it works in my camera, may not work in yours. 
+I give NO warranty of success, it works in my camera, may not work in yours. 
 I take NO responsibility for deleting your photos and movies, brick your camera or any problem whatsoever.
 
 Device Support
 Supported models:
 
-Samsung NX2000 (1.18d)
+Samsung NX2000 (Version 1.18)
 
 This tutorial was inspired by "ge0rg's NX300 Hacking", take a look there since its much more technical than mine. 
 
