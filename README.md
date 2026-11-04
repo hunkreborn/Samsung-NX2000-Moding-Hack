@@ -25,3 +25,13 @@ Hacking the Samsung NX300, part 3: Firmware mods > https://op-co.de/blog/posts/m
 NX Crypto Photography > https://sites.google.com/site/nxcryptophotography/
 
 Samsung NX500 and NX1 Modding > https://github.com/ottokiksmaler/nx500_nx1_modding
+
+
+## Live view over HDMI (2026)
+
+With this mod's `nx_cs.adj` + `autoexec.sh` mechanism, the NX2000 (firmware 1.18) can send its **live view over the
+micro HDMI port** to a laptop through a USB HDMI capture card: stable, ~24–30 fps, ~0.5–1 s latency, continuous AF.
+It uses a hidden factory demo mode (`hdmidemo.adj`) patched in RAM to 2D, plus a small mirror script. Done with AI:
+Claude Code (CLI) with Claude Opus 5.5 at max effort.
+
+Scripts and notes: https://github.com/michumichifu/nx2000-hdmi-live
