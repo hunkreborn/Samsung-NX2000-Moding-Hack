@@ -30,7 +30,7 @@ Samsung NX500 and NX1 Modding > https://github.com/ottokiksmaler/nx500_nx1_moddi
 ## Live view over HDMI
 
 With this mod's `nx_cs.adj` + `autoexec.sh` mechanism, the NX2000 (firmware 1.18) can send its **live view over the
-micro HDMI port** to a laptop through a USB HDMI capture card: stable, ~24–30 fps, ~0.5–1 s latency, continuous AF.
+micro HDMI port** to a laptop through a USB HDMI capture card: stable, ~24–30 fps, ~0.3–0.6 s latency, with manual focus with the lens ring and the AF/MF switch working live.
 **Quality for now: DVD-like (720×480)**; HD is the next goal.
 It uses a hidden factory demo mode (`hdmidemo.adj`) patched in RAM to 2D, plus a small mirror script. Done with AI:
 Claude Code (CLI) with Claude Opus 5.5 at max effort.
